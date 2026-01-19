@@ -10,6 +10,4 @@ public class WeakClass_1 {
 			return -1;
 		
 	}
-	
-
 }
